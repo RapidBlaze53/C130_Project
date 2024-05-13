@@ -1,0 +1,17 @@
+body {
+    text-align: center !important;
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin-left: 2px;
+    margin-right: 2px;
+    box-shadow: 8px 8px 5px white;
+}
+
+canvas {
+    border: 6px solid red;
+    border-radius: 22px;
+}
